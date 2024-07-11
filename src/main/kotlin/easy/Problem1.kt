@@ -15,6 +15,19 @@ class EasyProblem1 {
         }
         return intArrayOf(0, 1)
     }
+
+    fun containsDuplicate(nums: IntArray): Boolean {
+        val map = HashMap<Int, Int>()
+
+        val set = HashSet<Int>()
+        for (num in nums) {
+            if (!set.add(num)) {
+                return true
+            }
+        }
+        return false
+    }
+
 }
 
 fun main() {
