@@ -5,26 +5,29 @@ class Problem242 {
         if (s.length != t.length) {
             return false
         }
-        val mapS = hashMapOf<Char, Int>()
-        val mapT = hashMapOf<Char, Int>()
-        for (index in s.indices) {
-            mapS[s[index]] = (mapS[s[index]] ?: 0) + 1
-            mapT[t[index]] = (mapT[t[index]] ?: 0) + 1
+        val sc = HashMap<Char, Int>()
+        val tc = HashMap<Char, Int>()
+
+        for (i in s.indices) {
+            sc[s[i]] = (sc[s[i]] ?: 0) + 1
+            tc[t[i]] = (tc[t[i]] ?: 0) + 1
         }
-        mapS.keys.forEach {
-            if (mapT[it] == null) {
+
+        if (sc.keys.size != tc.keys.size) {
+            return false
+        }
+
+        sc.keys.forEach {
+            if (sc[it] != tc[it]) {
                 return false
             }
-            if (mapT[it] != mapS[it]) {
-                return false
-            }
         }
+
         return true
     }
 }
 
 fun main() {
-    println(Problem242().isAnagram(s = "anagram", t = "nagaram"))
-    println(Problem242().isAnagram(s = "rat", t = "car"))
-    println(Problem242().isAnagram(s = "aa", t = "bb"))
+    println(Problem242().isAnagram("anagram", "nagaram"))
+    println(Problem242().isAnagram("rat", "car"))
 }
