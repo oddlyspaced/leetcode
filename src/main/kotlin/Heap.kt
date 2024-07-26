@@ -69,9 +69,11 @@ class Heap {
 
         // remove values one by one
         var heapSize = heapValues.size
-        repeat(2) {
+        val vals = IntArray(values.size)
+        var index = 0
+        repeat(vals.size) {
             val removed = heapValues[0]
-            println("REMOVED : $removed")
+            vals[index++] = removed
             // put last value to first
             heapValues[0] = heapValues[heapSize - 1]
             heapSize -= 1
@@ -100,9 +102,10 @@ class Heap {
             }
         }
 
-        println("---")
-        displayHeap(heapValues.sliceArray(0..<heapSize))
-        println(heapValues.sliceArray(0..<heapSize).joinToString(","))
+//        println("---")
+//        displayHeap(heapValues.sliceArray(0..<heapSize))
+//        println(heapValues.sliceArray(0..<heapSize).joinToString(","))
+        println(vals.joinToString(","))
     }
 }
 
