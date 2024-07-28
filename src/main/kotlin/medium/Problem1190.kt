@@ -9,8 +9,8 @@ class Problem1190 {
         var index = 0
         while (index < s.length) {
             if (s[index] == '(') {
-                bracket.addLast('(')
-                ind.addLast(index + 1)
+//                bracket.addLast('(')
+//                ind.addLast(index + 1)
             } else if (s[index] == ')') {
                 bracket.removeLast()
                 val t = ind.removeLast()
