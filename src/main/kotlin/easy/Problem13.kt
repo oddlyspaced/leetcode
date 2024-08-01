@@ -1,5 +1,3 @@
-package easy
-
 class Problem13 {
     fun romanToInt(s: String): Int {
         val data = hashMapOf<String, Int>()
@@ -16,21 +14,22 @@ class Problem13 {
         data["D"] = 500
         data["CM"] = 900
         data["M"] = 1000
+
+        var i = 0
         var res = 0
-        var index = 0
-        while (index < s.length) {
-            val c = s[index].toString()
-            var cn = c
-            if (index + 1 < s.length) {
-                cn = s[index + 1].toString()
+        while (i < s.length) {
+            val c = "${s[i]}"
+            var cn = ""
+            if ((i + 1) < s.length) {
+                cn = s[i + 1].toString()
             }
-            // if next is greater than use both
-            if (data[cn]!! > data[c]!!) {
-                res += data[c + cn]!!
-                index += 2
-            } else {
-                res += data[c]!!
-                index++
+            if (data["$c$cn"] != null) {
+                res += data["$c$cn"] ?: 0
+                i += 2
+            }
+            else {
+                res += data[c] ?: 0
+                i++
             }
         }
         return res
@@ -38,5 +37,7 @@ class Problem13 {
 }
 
 fun main() {
+    println(Problem13().romanToInt("III"))
+    println(Problem13().romanToInt("LVIII"))
     println(Problem13().romanToInt("MCMXCIV"))
 }
