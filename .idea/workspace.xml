@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/easy/Problem13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/easy/Problem13.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/easy/Problem392.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/easy/Problem392.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem238.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/medium/Problem238.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem54.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/medium/Problem54.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -63,37 +58,37 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem275Kt">
-    <configuration name="Medium56Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Medium56Kt" />
+  <component name="RunManager" selected="Kotlin.Problem1502Kt">
+    <configuration name="Problem1460Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem1460Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium981Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Medium981Kt" />
+    <configuration name="Problem1502Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem1502Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem238Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem238Kt" />
+    <configuration name="Problem2134Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem2134Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2678Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem2678Kt" />
+    <configuration name="Problem389Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem389Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem275Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem275Kt" />
+    <configuration name="Problem459Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem459Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Problem275Kt" />
-        <item itemvalue="Kotlin.Problem2678Kt" />
-        <item itemvalue="Kotlin.Medium981Kt" />
-        <item itemvalue="Kotlin.Medium56Kt" />
-        <item itemvalue="Kotlin.Problem238Kt" />
+        <item itemvalue="Kotlin.Problem1502Kt" />
+        <item itemvalue="Kotlin.Problem459Kt" />
+        <item itemvalue="Kotlin.Problem1460Kt" />
+        <item itemvalue="Kotlin.Problem389Kt" />
+        <item itemvalue="Kotlin.Problem2134Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +141,10 @@
       <workItem from="1722355812445" duration="2393000" />
       <workItem from="1722443561915" duration="2218000" />
       <workItem from="1722486413794" duration="3017000" />
+      <workItem from="1722562609678" duration="7401000" />
+      <workItem from="1722572751595" duration="1548000" />
+      <workItem from="1722686229190" duration="4554000" />
+      <workItem from="1722691543892" duration="675000" />
     </task>
     <servers />
   </component>
