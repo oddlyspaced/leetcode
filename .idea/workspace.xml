@@ -58,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem1502Kt">
+  <component name="RunManager" selected="Kotlin.Problem1508Kt">
     <configuration name="Problem1460Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.Problem1460Kt" />
       <module name="leetcode" />
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2134Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem2134Kt" />
+    <configuration name="Problem1508Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem1508Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem1508Kt" />
         <item itemvalue="Kotlin.Problem1502Kt" />
         <item itemvalue="Kotlin.Problem459Kt" />
         <item itemvalue="Kotlin.Problem1460Kt" />
         <item itemvalue="Kotlin.Problem389Kt" />
-        <item itemvalue="Kotlin.Problem2134Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,8 @@
       <workItem from="1722562609678" duration="7401000" />
       <workItem from="1722572751595" duration="1548000" />
       <workItem from="1722686229190" duration="4554000" />
-      <workItem from="1722691543892" duration="675000" />
+      <workItem from="1722691543892" duration="1340000" />
+      <workItem from="1722760202288" duration="2497000" />
     </task>
     <servers />
   </component>
