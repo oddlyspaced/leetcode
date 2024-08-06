@@ -35,11 +35,16 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Kotlin.Problem2053Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem22Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem3016Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem682Kt.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/hardik/Projects/Idea-Projects/leetcode/src/main/kotlin/easy&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -58,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem1508Kt">
+  <component name="RunManager" selected="Kotlin.Problem3016Kt">
     <configuration name="Problem1460Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.Problem1460Kt" />
       <module name="leetcode" />
@@ -66,29 +71,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1502Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem1502Kt" />
+    <configuration name="Problem2053Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem2053Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1508Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem1508Kt" />
+    <configuration name="Problem22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem22Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem389Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem389Kt" />
+    <configuration name="Problem3016Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem3016Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem459Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem459Kt" />
+    <configuration name="Problem682Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem682Kt" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,13 +101,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Problem1508Kt" />
-        <item itemvalue="Kotlin.Problem1502Kt" />
-        <item itemvalue="Kotlin.Problem459Kt" />
+        <item itemvalue="Kotlin.Problem3016Kt" />
+        <item itemvalue="Kotlin.Problem22Kt" />
+        <item itemvalue="Kotlin.Problem2053Kt" />
+        <item itemvalue="Kotlin.Problem682Kt" />
         <item itemvalue="Kotlin.Problem1460Kt" />
-        <item itemvalue="Kotlin.Problem389Kt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -145,11 +158,29 @@
       <workItem from="1722572751595" duration="1548000" />
       <workItem from="1722686229190" duration="4554000" />
       <workItem from="1722691543892" duration="1340000" />
-      <workItem from="1722760202288" duration="2497000" />
+      <workItem from="1722760202288" duration="3245000" />
+      <workItem from="1722798217860" duration="178000" />
+      <workItem from="1722798402474" duration="156000" />
+      <workItem from="1722798563836" duration="231000" />
+      <workItem from="1722798807220" duration="38000" />
+      <workItem from="1722799033033" duration="1165000" />
+      <workItem from="1722821038058" duration="2950000" />
+      <workItem from="1722907412335" duration="1716000" />
+      <workItem from="1722910281244" duration="956000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.InvalidClassException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
