@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem53.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem54.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hVi0Ek5v7Idl5mvX4fHuvc2yQw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.Problem1071Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem1282Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem1302Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem151Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem2053Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem22Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem2396Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem2610Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem273Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem2807Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem3016Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem40Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem49Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem682Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem703Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem73Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem840Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem885Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem959Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problem977Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hardik/Projects/Idea-Projects/leetcode/src/main/kotlin/easy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Problem40Kt">
+    <configuration name="Problem1071Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem1071Kt" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem151Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem151Kt" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2610Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem2610Kt" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem40Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="medium.Problem40Kt" />
+      <module name="leetcode" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem703Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem703Kt" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.Problem40Kt" />
+      <item itemvalue="Kotlin.Problem151Kt" />
+      <item itemvalue="Kotlin.Problem703Kt" />
+      <item itemvalue="Kotlin.Problem1071Kt" />
+      <item itemvalue="Kotlin.Problem2610Kt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Problem40Kt" />
+        <item itemvalue="Kotlin.Problem1071Kt" />
+        <item itemvalue="Kotlin.Problem151Kt" />
+        <item itemvalue="Kotlin.Problem2610Kt" />
+        <item itemvalue="Kotlin.Problem703Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="" />
+      <created>1717685428022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717685428022</updated>
+      <workItem from="1717685429019" duration="26000" />
+      <workItem from="1717685459388" duration="14120000" />
+      <workItem from="1718772860544" duration="13502000" />
+      <workItem from="1718891366906" duration="25003000" />
+      <workItem from="1719258225791" duration="9641000" />
+      <workItem from="1719507621247" duration="17905000" />
+      <workItem from="1719729876411" duration="22334000" />
+      <workItem from="1719839323349" duration="5349000" />
+      <workItem from="1719988112223" duration="4350000" />
+      <workItem from="1720356230873" duration="6205000" />
+      <workItem from="1720681091625" duration="6743000" />
+      <workItem from="1720863567127" duration="236000" />
+      <workItem from="1720864773895" duration="8839000" />
+      <workItem from="1720928133199" duration="3942000" />
+      <workItem from="1720940287094" duration="1867000" />
+      <workItem from="1721545616693" duration="5765000" />
+      <workItem from="1721612161837" duration="4281000" />
+      <workItem from="1721698147725" duration="4802000" />
+      <workItem from="1721835506932" duration="2286000" />
+      <workItem from="1721876291454" duration="5713000" />
+      <workItem from="1721957250956" duration="4328000" />
+      <workItem from="1721961597769" duration="288000" />
+      <workItem from="1721961906790" duration="8000" />
+      <workItem from="1722056213926" duration="3377000" />
+      <workItem from="1722186649677" duration="591000" />
+      <workItem from="1722213159697" duration="4670000" />
+      <workItem from="1722355812445" duration="2393000" />
+      <workItem from="1722443561915" duration="2218000" />
+      <workItem from="1722486413794" duration="3017000" />
+      <workItem from="1722562609678" duration="7401000" />
+      <workItem from="1722572751595" duration="1548000" />
+      <workItem from="1722686229190" duration="4554000" />
+      <workItem from="1722691543892" duration="1340000" />
+      <workItem from="1722760202288" duration="3245000" />
+      <workItem from="1722798217860" duration="178000" />
+      <workItem from="1722798402474" duration="156000" />
+      <workItem from="1722798563836" duration="231000" />
+      <workItem from="1722798807220" duration="38000" />
+      <workItem from="1722799033033" duration="1165000" />
+      <workItem from="1722821038058" duration="2950000" />
+      <workItem from="1722907412335" duration="1716000" />
+      <workItem from="1722910281244" duration="956000" />
+      <workItem from="1723002142067" duration="14000" />
+      <workItem from="1723002168722" duration="5638000" />
+      <workItem from="1723088230398" duration="13430000" />
+      <workItem from="1723265673835" duration="128000" />
+      <workItem from="1723265807342" duration="2124000" />
+      <workItem from="1723353730181" duration="3709000" />
+      <workItem from="1723359531664" duration="1040000" />
+      <workItem from="1723390386593" duration="992000" />
+      <workItem from="1723469058878" duration="13391000" />
+      <workItem from="1723515018194" duration="355000" />
+      <workItem from="1723515374668" duration="59000" />
+      <workItem from="1723515437716" duration="307000" />
+      <workItem from="1723516219221" duration="28000" />
+      <workItem from="1723533058971" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.InvalidClassException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
