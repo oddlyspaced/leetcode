@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem53.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem54.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/META-INF/main.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,105 +34,114 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.Problem1071Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1282Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1302Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem151Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2053Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem22Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2396Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2610Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem273Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2807Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem3016Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem40Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem49Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem682Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem703Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem73Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem840Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem885Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem959Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem977Kt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hardik/Projects/Idea-Projects/leetcode/src/main/kotlin/easy&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build untitled.executor": "Run",
+    "Kotlin.Problem1009Kt.executor": "Run",
+    "Kotlin.Problem1071Kt.executor": "Run",
+    "Kotlin.Problem1282Kt.executor": "Run",
+    "Kotlin.Problem1302Kt.executor": "Run",
+    "Kotlin.Problem1456Kt.executor": "Run",
+    "Kotlin.Problem150Kt.executor": "Run",
+    "Kotlin.Problem151Kt.executor": "Run",
+    "Kotlin.Problem1657Kt.executor": "Run",
+    "Kotlin.Problem2053Kt.executor": "Run",
+    "Kotlin.Problem22Kt.executor": "Run",
+    "Kotlin.Problem2390Kt.executor": "Run",
+    "Kotlin.Problem2396Kt.executor": "Run",
+    "Kotlin.Problem2610Kt.executor": "Run",
+    "Kotlin.Problem264Kt.executor": "Run",
+    "Kotlin.Problem273Kt.executor": "Run",
+    "Kotlin.Problem2807Kt.executor": "Run",
+    "Kotlin.Problem3016Kt.executor": "Run",
+    "Kotlin.Problem40Kt.executor": "Run",
+    "Kotlin.Problem49Kt.executor": "Run",
+    "Kotlin.Problem650Kt.executor": "Run",
+    "Kotlin.Problem664Kt.executor": "Run",
+    "Kotlin.Problem682Kt.executor": "Run",
+    "Kotlin.Problem703Kt.executor": "Run",
+    "Kotlin.Problem739Kt.executor": "Run",
+    "Kotlin.Problem73Kt.executor": "Run",
+    "Kotlin.Problem840Kt.executor": "Run",
+    "Kotlin.Problem876Kt.executor": "Run",
+    "Kotlin.Problem877Kt.executor": "Run",
+    "Kotlin.Problem885Kt.executor": "Run",
+    "Kotlin.Problem959Kt.executor": "Run",
+    "Kotlin.Problem977Kt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hardik/Projects/Idea-Projects/leetcode/src/main/kotlin/easy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem40Kt">
-    <configuration name="Problem1071Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem1071Kt" />
-      <module name="leetcode" />
+  <component name="RunManager" selected="Kotlin.Problem1009Kt">
+    <configuration name="Problem1009Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem1009Kt" />
+      <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem151Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem151Kt" />
-      <module name="leetcode" />
+    <configuration name="Problem150Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem150Kt" />
+      <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2610Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem2610Kt" />
-      <module name="leetcode" />
+    <configuration name="Problem664Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.Problem664Kt" />
+      <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem40Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="corretto-18" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="medium.Problem40Kt" />
-      <module name="leetcode" />
-      <shortenClasspath name="NONE" />
+    <configuration name="Problem739Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem739Kt" />
+      <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem703Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem703Kt" />
-      <module name="leetcode" />
+    <configuration name="Problem876Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem876Kt" />
+      <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.Problem40Kt" />
-      <item itemvalue="Kotlin.Problem151Kt" />
-      <item itemvalue="Kotlin.Problem703Kt" />
-      <item itemvalue="Kotlin.Problem1071Kt" />
-      <item itemvalue="Kotlin.Problem2610Kt" />
+      <item itemvalue="Kotlin.Problem1009Kt" />
+      <item itemvalue="Kotlin.Problem150Kt" />
+      <item itemvalue="Kotlin.Problem664Kt" />
+      <item itemvalue="Kotlin.Problem739Kt" />
+      <item itemvalue="Kotlin.Problem876Kt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Problem40Kt" />
-        <item itemvalue="Kotlin.Problem1071Kt" />
-        <item itemvalue="Kotlin.Problem151Kt" />
-        <item itemvalue="Kotlin.Problem2610Kt" />
-        <item itemvalue="Kotlin.Problem703Kt" />
+        <item itemvalue="Kotlin.Problem1009Kt" />
+        <item itemvalue="Kotlin.Problem876Kt" />
+        <item itemvalue="Kotlin.Problem739Kt" />
+        <item itemvalue="Kotlin.Problem150Kt" />
+        <item itemvalue="Kotlin.Problem664Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -201,6 +209,15 @@
       <workItem from="1723515437716" duration="307000" />
       <workItem from="1723516219221" duration="28000" />
       <workItem from="1723533058971" duration="87000" />
+      <workItem from="1723885672784" duration="18000" />
+      <workItem from="1723885697977" duration="2606000" />
+      <workItem from="1723946499913" duration="5008000" />
+      <workItem from="1723963503596" duration="11000" />
+      <workItem from="1724043090116" duration="10176000" />
+      <workItem from="1724068153193" duration="1999000" />
+      <workItem from="1724129494336" duration="2968000" />
+      <workItem from="1724202272267" duration="7832000" />
+      <workItem from="1724293815174" duration="759000" />
     </task>
     <servers />
   </component>
