@@ -2,23 +2,20 @@ package medium
 
 class Problem347 {
     fun topKFrequent(nums: IntArray, k: Int): IntArray {
-        val count = HashMap<Int, Int>()
+        val count = hashMapOf<Int, Int>()
         nums.forEach {
-            count[it] = (count[it] ?: 0) + 1
+            count[it] = count.getOrDefault(it, 0) + 1
         }
+
         val res = IntArray(k)
-        var index = 0
+        var resIndex = 0
         repeat(k) {
-            var hK = 0
-            var hV = 0
-            count.forEach { (key, value) ->
-                if (value > hV) {
-                    hV = value
-                    hK = key
-                }
+            // find max
+            val maxK = count.maxBy {
+                it.value
             }
-            res[index++] = hK
-            count[hK] = 0
+            res[resIndex++] = maxK.key
+            count[maxK.key] = 0
         }
         return res
     }
