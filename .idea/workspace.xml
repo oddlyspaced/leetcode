@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/medium/Problem19.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem347.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/medium/Problem347.kt" afterDir="false" />
-    </list>
+    <list default="true" id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +236,7 @@
       <workItem from="1724858193819" duration="1451000" />
       <workItem from="1724895452657" duration="4438000" />
       <workItem from="1724980541245" duration="1194000" />
-      <workItem from="1725026437689" duration="677000" />
+      <workItem from="1725026437689" duration="784000" />
     </task>
     <servers />
   </component>
