@@ -4,7 +4,8 @@ import easy.ListNode
 
 class Problem19 {
     fun removeNthFromEnd(head: ListNode?, n: Int): ListNode? {
-        val
+        // todo
+        return null
     }
 }
 
