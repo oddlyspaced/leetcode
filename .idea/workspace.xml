@@ -46,6 +46,7 @@
     "Kotlin.Problem1514Kt.executor": "Run",
     "Kotlin.Problem151Kt.executor": "Run",
     "Kotlin.Problem1657Kt.executor": "Run",
+    "Kotlin.Problem1684Kt.executor": "Run",
     "Kotlin.Problem1894Kt.executor": "Run",
     "Kotlin.Problem1945Kt.executor": "Run",
     "Kotlin.Problem19Kt.executor": "Run",
@@ -111,7 +112,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem2326Kt">
+  <component name="RunManager" selected="Kotlin.Problem1684Kt">
     <configuration name="Problem1367Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.Problem1367Kt" />
       <module name="leetcode.main" />
@@ -119,15 +120,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2326Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem2326Kt" />
+    <configuration name="Problem1684Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem1684Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem3217Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem3217Kt" />
+    <configuration name="Problem2326Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem2326Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,19 +149,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.Problem1684Kt" />
       <item itemvalue="Kotlin.Problem2326Kt" />
       <item itemvalue="Kotlin.Problem54Kt" />
       <item itemvalue="Kotlin.Problem725Kt" />
       <item itemvalue="Kotlin.Problem1367Kt" />
-      <item itemvalue="Kotlin.Problem3217Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem1684Kt" />
         <item itemvalue="Kotlin.Problem2326Kt" />
         <item itemvalue="Kotlin.Problem54Kt" />
         <item itemvalue="Kotlin.Problem725Kt" />
         <item itemvalue="Kotlin.Problem1367Kt" />
-        <item itemvalue="Kotlin.Problem3217Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +258,8 @@
       <workItem from="1725682806256" duration="6285000" />
       <workItem from="1725766102841" duration="6348000" />
       <workItem from="1725890112672" duration="3730000" />
+      <workItem from="1726042597665" duration="39000" />
+      <workItem from="1726105279517" duration="267000" />
     </task>
     <servers />
   </component>
