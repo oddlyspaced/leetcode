@@ -40,6 +40,7 @@
     "Kotlin.Problem1071Kt.executor": "Run",
     "Kotlin.Problem1282Kt.executor": "Run",
     "Kotlin.Problem1302Kt.executor": "Run",
+    "Kotlin.Problem1310Kt.executor": "Run",
     "Kotlin.Problem1367Kt.executor": "Run",
     "Kotlin.Problem1456Kt.executor": "Run",
     "Kotlin.Problem150Kt.executor": "Run",
@@ -112,9 +113,9 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem1684Kt">
-    <configuration name="Problem1367Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem1367Kt" />
+  <component name="RunManager" selected="Kotlin.Problem1310Kt">
+    <configuration name="Problem1310Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem1310Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -149,19 +150,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.Problem1310Kt" />
       <item itemvalue="Kotlin.Problem1684Kt" />
       <item itemvalue="Kotlin.Problem2326Kt" />
       <item itemvalue="Kotlin.Problem54Kt" />
       <item itemvalue="Kotlin.Problem725Kt" />
-      <item itemvalue="Kotlin.Problem1367Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem1310Kt" />
         <item itemvalue="Kotlin.Problem1684Kt" />
         <item itemvalue="Kotlin.Problem2326Kt" />
         <item itemvalue="Kotlin.Problem54Kt" />
         <item itemvalue="Kotlin.Problem725Kt" />
-        <item itemvalue="Kotlin.Problem1367Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +261,7 @@
       <workItem from="1725890112672" duration="3730000" />
       <workItem from="1726042597665" duration="39000" />
       <workItem from="1726105279517" duration="267000" />
+      <workItem from="1726225929737" duration="856000" />
     </task>
     <servers />
   </component>
