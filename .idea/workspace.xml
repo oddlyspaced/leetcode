@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88199462-417d-4bcc-9446-f6adfb9e18d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/medium/Problem46.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/medium/Problem46.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
     "Kotlin.Problem2326Kt.executor": "Run",
     "Kotlin.Problem2390Kt.executor": "Run",
     "Kotlin.Problem2396Kt.executor": "Run",
+    "Kotlin.Problem2419Kt.executor": "Run",
     "Kotlin.Problem2610Kt.executor": "Run",
     "Kotlin.Problem264Kt.executor": "Run",
     "Kotlin.Problem273Kt.executor": "Run",
@@ -69,6 +71,7 @@
     "Kotlin.Problem40Kt.executor": "Run",
     "Kotlin.Problem41Kt.executor": "Run",
     "Kotlin.Problem49Kt.executor": "Run",
+    "Kotlin.Problem50Kt.executor": "Run",
     "Kotlin.Problem54Kt.executor": "Run",
     "Kotlin.Problem564Kt.executor": "Run",
     "Kotlin.Problem567Kt.executor": "Run",
@@ -113,7 +116,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem1310Kt">
+  <component name="RunManager" selected="Kotlin.Problem2419Kt">
     <configuration name="Problem1310Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.Problem1310Kt" />
       <module name="leetcode.main" />
@@ -135,34 +138,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem54Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem54Kt" />
+    <configuration name="Problem2419Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem2419Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem725Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem725Kt" />
+    <configuration name="Problem50Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem50Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.Problem2419Kt" />
+      <item itemvalue="Kotlin.Problem50Kt" />
       <item itemvalue="Kotlin.Problem1310Kt" />
       <item itemvalue="Kotlin.Problem1684Kt" />
       <item itemvalue="Kotlin.Problem2326Kt" />
-      <item itemvalue="Kotlin.Problem54Kt" />
-      <item itemvalue="Kotlin.Problem725Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem2419Kt" />
+        <item itemvalue="Kotlin.Problem50Kt" />
         <item itemvalue="Kotlin.Problem1310Kt" />
         <item itemvalue="Kotlin.Problem1684Kt" />
         <item itemvalue="Kotlin.Problem2326Kt" />
-        <item itemvalue="Kotlin.Problem54Kt" />
-        <item itemvalue="Kotlin.Problem725Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +265,10 @@
       <workItem from="1726042597665" duration="39000" />
       <workItem from="1726105279517" duration="267000" />
       <workItem from="1726225929737" duration="856000" />
+      <workItem from="1726239606445" duration="10000" />
+      <workItem from="1726239627483" duration="927000" />
+      <workItem from="1726240644746" duration="2216000" />
+      <workItem from="1726337596166" duration="915000" />
     </task>
     <servers />
   </component>
