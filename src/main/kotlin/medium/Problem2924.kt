@@ -9,7 +9,7 @@ class Problem2924 {
         val champions = mutableListOf<Int>()
         incoming.forEachIndexed { index, i ->
             if (i == 0) {
-                champions.add(i)
+                champions.add(index)
             }
         }
         return if (champions.size > 1) -1 else champions.first()
