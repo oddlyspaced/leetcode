@@ -4,7 +4,7 @@ class Problem125 {
     fun isPalindrome(s: String): Boolean {
         var s = s.filter {
             it.isLetterOrDigit()
-        }.toLowerCase()
+        }.lowercase()
         for (i in 0..(s.length - 1) / 2) {
             if (s[i] != s[s.length - 1 - i])
                 return false
