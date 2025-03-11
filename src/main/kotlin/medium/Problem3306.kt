@@ -2,15 +2,43 @@ package medium
 
 class Problem3306 {
     private fun isVowel(c: Char): Boolean {
-        return (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
+        return c in listOf('a', 'e', 'i', 'o', 'u')
+    }
+
+    private fun atLeastK(word: String, k: Int): Long {
+        val n = word.length
+        var ans = 0L
+        var consonants = 0
+        var left = 0
+        val vowelMap = HashMap<Char, Int>()
+
+        for (right in 0 until n) {
+            val c = word[right]
+            if (isVowel(c)) {
+                vowelMap[c] = vowelMap.getOrDefault(c, 0) + 1
+            } else {
+                consonants++
+            }
+
+            while (vowelMap.size == 5 && consonants >= k) {
+                ans += n - right
+                val leftChar = word[left]
+                if (isVowel(leftChar)) {
+                    vowelMap[leftChar] = vowelMap[leftChar]!! - 1
+                    if (vowelMap[leftChar] == 0) {
+                        vowelMap.remove(leftChar)
+                    }
+                } else {
+                    consonants--
+                }
+                left++
+            }
+        }
+        return ans
     }
 
     fun countOfSubstrings(word: String, k: Int): Long {
-        var res = 0L
-        var kCount = 0
-        var windowStart = 0
-        var vowels = hashMapOf<Char, Int>()
-
+        return atLeastK(word, k) - atLeastK(word, k + 1)
     }
 }
 
