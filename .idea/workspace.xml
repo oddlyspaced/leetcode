@@ -44,6 +44,7 @@
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Problem1123Kt.executor": "Run",
     "Kotlin.Problem121Kt.executor": "Run",
+    "Kotlin.Problem125Kt.executor": "Run",
     "Kotlin.Problem1358Kt.executor": "Run",
     "Kotlin.Problem1780Kt.executor": "Run",
     "Kotlin.Problem1863Kt.executor": "Run",
@@ -186,7 +187,7 @@
       <workItem from="1745155608928" duration="157000" />
       <workItem from="1745607228842" duration="4000" />
       <workItem from="1760376356237" duration="1970000" />
-      <workItem from="1760504108102" duration="9073000" />
+      <workItem from="1760504108102" duration="9759000" />
     </task>
     <servers />
   </component>
