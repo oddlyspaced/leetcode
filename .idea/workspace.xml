@@ -6,20 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f0359ea8-0062-4281-becf-9ed342e8bb71" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/hard/Problem2458.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/hard/Problem2458.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1123.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1123.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1302.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1302.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1367.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1367.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem19.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2181.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2181.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2326.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2326.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2583.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2583.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2641.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2641.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2807.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2807.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem3217.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem3217.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem725.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem725.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem951.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem951.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +85,7 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/old" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem20Kt">
+  <component name="RunManager" selected="Kotlin.Problem21Kt">
     <configuration name="Problem1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="grind75.Problem1Kt" />
       <module name="leetcode.main" />
@@ -109,6 +95,13 @@
     </configuration>
     <configuration name="Problem20Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="grind75.Problem20Kt" />
+      <module name="leetcode.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem21Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,20 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem416Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem416Kt" />
-      <module name="leetcode.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem21Kt" />
         <item itemvalue="Kotlin.Problem20Kt" />
         <item itemvalue="Kotlin.Problem1Kt" />
         <item itemvalue="Kotlin.Problem3512Kt" />
         <item itemvalue="Kotlin.Problem2894Kt" />
-        <item itemvalue="Kotlin.Problem416Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +184,7 @@
       <workItem from="1745155608928" duration="157000" />
       <workItem from="1745607228842" duration="4000" />
       <workItem from="1760376356237" duration="1970000" />
-      <workItem from="1760504108102" duration="4116000" />
+      <workItem from="1760504108102" duration="6891000" />
     </task>
     <servers />
   </component>
