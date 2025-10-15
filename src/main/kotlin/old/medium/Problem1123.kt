@@ -1,7 +1,7 @@
 package old.medium
 
-import com.sun.source.tree.Tree
-import easy.TreeNode
+import old.easy.TreeNode
+
 
 /**
  * Created by Hardik Srivastava on 04/04/25

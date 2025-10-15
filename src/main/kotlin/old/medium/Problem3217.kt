@@ -1,6 +1,6 @@
 package old.medium
 
-import easy.ListNode
+import old.easy.ListNode
 
 class Problem3217 {
     fun modifiedList(nums: IntArray, head: ListNode?): ListNode? {

@@ -1,6 +1,7 @@
 package old.medium
 
-import easy.ListNode
+import old.easy.ListNode
+
 
 class Problem2326 {
     fun spiralMatrix(m: Int, n: Int, head: ListNode?): Array<IntArray> {

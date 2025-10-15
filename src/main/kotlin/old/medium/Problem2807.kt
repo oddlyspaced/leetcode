@@ -1,6 +1,6 @@
 package old.medium
 
-import easy.ListNode
+import old.easy.ListNode
 import kotlin.math.min
 
 class Problem2807 {

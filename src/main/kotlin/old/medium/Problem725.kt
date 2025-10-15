@@ -1,6 +1,7 @@
 package old.medium
 
-import easy.ListNode
+import old.easy.ListNode
+
 
 class Problem725 {
     fun splitListToParts(head: ListNode?, k: Int): Array<ListNode?> {

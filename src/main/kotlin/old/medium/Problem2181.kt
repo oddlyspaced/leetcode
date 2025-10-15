@@ -1,6 +1,7 @@
 package old.medium
 
-import easy.ListNode
+import old.easy.ListNode
+
 
 class Problem2181 {
     fun mergeNodes(head: ListNode?): ListNode? {

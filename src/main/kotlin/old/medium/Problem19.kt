@@ -1,6 +1,7 @@
 package old.medium
 
-import easy.ListNode
+import old.easy.ListNode
+
 
 class Problem19 {
     fun removeNthFromEnd(head: ListNode?, n: Int): ListNode? {

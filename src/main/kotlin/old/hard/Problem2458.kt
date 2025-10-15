@@ -1,6 +1,6 @@
 package old.hard
 
-import easy.TreeNode
+import old.easy.TreeNode
 import kotlin.math.max
 
 

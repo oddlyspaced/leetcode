@@ -1,6 +1,7 @@
 package old.medium
 
-import easy.TreeNode
+import old.easy.TreeNode
+
 
 class Problem2641 {
 
