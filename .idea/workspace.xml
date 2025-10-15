@@ -43,6 +43,7 @@
     "Gradle.Build leetcode.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.Problem1123Kt.executor": "Run",
+    "Kotlin.Problem121Kt.executor": "Run",
     "Kotlin.Problem1358Kt.executor": "Run",
     "Kotlin.Problem1780Kt.executor": "Run",
     "Kotlin.Problem1863Kt.executor": "Run",
@@ -50,6 +51,7 @@
     "Kotlin.Problem1Kt.executor": "Run",
     "Kotlin.Problem20Kt.executor": "Run",
     "Kotlin.Problem2161Kt.executor": "Run",
+    "Kotlin.Problem21Kt.executor": "Run",
     "Kotlin.Problem2206Kt.executor": "Run",
     "Kotlin.Problem2379Kt.executor": "Run",
     "Kotlin.Problem2460Kt.executor": "Run",
@@ -85,7 +87,21 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/old" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem21Kt">
+  <component name="RunManager" selected="Kotlin.Problem125Kt">
+    <configuration name="Problem121Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem121Kt" />
+      <module name="leetcode.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem125Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem125Kt" />
+      <module name="leetcode.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="grind75.Problem1Kt" />
       <module name="leetcode.main" />
@@ -107,27 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2894Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grind75.Problem2894Kt" />
-      <module name="leetcode.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem3512Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="grind75.Problem3512Kt" />
-      <module name="leetcode.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem125Kt" />
+        <item itemvalue="Kotlin.Problem121Kt" />
         <item itemvalue="Kotlin.Problem21Kt" />
         <item itemvalue="Kotlin.Problem20Kt" />
         <item itemvalue="Kotlin.Problem1Kt" />
-        <item itemvalue="Kotlin.Problem3512Kt" />
-        <item itemvalue="Kotlin.Problem2894Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +186,7 @@
       <workItem from="1745155608928" duration="157000" />
       <workItem from="1745607228842" duration="4000" />
       <workItem from="1760376356237" duration="1970000" />
-      <workItem from="1760504108102" duration="6891000" />
+      <workItem from="1760504108102" duration="9073000" />
     </task>
     <servers />
   </component>
