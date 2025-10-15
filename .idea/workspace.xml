@@ -6,6 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="f0359ea8-0062-4281-becf-9ed342e8bb71" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/hard/Problem2458.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/hard/Problem2458.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1123.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1123.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1302.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1302.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1367.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem1367.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem19.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2181.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2181.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2326.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2326.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2583.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2583.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2641.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2641.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2807.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem2807.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem3217.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem3217.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem725.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem725.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem951.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/old/medium/Problem951.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,71 +52,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build leetcode.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1123Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1358Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1780Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1863Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem198Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2161Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2206Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2379Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2460Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2523Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2529Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2570Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2579Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2873Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2894Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem2965Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem3208Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem3306Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem3356Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem3512Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem368Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem412Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem416Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problem455Kt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build leetcode.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Problem1123Kt.executor": "Run",
+    "Kotlin.Problem1358Kt.executor": "Run",
+    "Kotlin.Problem1780Kt.executor": "Run",
+    "Kotlin.Problem1863Kt.executor": "Run",
+    "Kotlin.Problem198Kt.executor": "Run",
+    "Kotlin.Problem1Kt.executor": "Run",
+    "Kotlin.Problem20Kt.executor": "Run",
+    "Kotlin.Problem2161Kt.executor": "Run",
+    "Kotlin.Problem2206Kt.executor": "Run",
+    "Kotlin.Problem2379Kt.executor": "Run",
+    "Kotlin.Problem2460Kt.executor": "Run",
+    "Kotlin.Problem2523Kt.executor": "Run",
+    "Kotlin.Problem2529Kt.executor": "Run",
+    "Kotlin.Problem2570Kt.executor": "Run",
+    "Kotlin.Problem2579Kt.executor": "Run",
+    "Kotlin.Problem2873Kt.executor": "Run",
+    "Kotlin.Problem2894Kt.executor": "Run",
+    "Kotlin.Problem2965Kt.executor": "Run",
+    "Kotlin.Problem3208Kt.executor": "Run",
+    "Kotlin.Problem3306Kt.executor": "Run",
+    "Kotlin.Problem3356Kt.executor": "Run",
+    "Kotlin.Problem3512Kt.executor": "Run",
+    "Kotlin.Problem368Kt.executor": "Run",
+    "Kotlin.Problem412Kt.executor": "Run",
+    "Kotlin.Problem416Kt.executor": "Run",
+    "Kotlin.Problem455Kt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Problem3512Kt">
-    <configuration name="Problem1863Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem1863Kt" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/old" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Problem20Kt">
+    <configuration name="Problem1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem1Kt" />
+      <module name="leetcode.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem20Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem20Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Problem2894Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem2894Kt" />
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem2894Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Problem3512Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem3512Kt" />
-      <module name="leetcode.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem368Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem368Kt" />
+      <option name="MAIN_CLASS_NAME" value="grind75.Problem3512Kt" />
       <module name="leetcode.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problem20Kt" />
+        <item itemvalue="Kotlin.Problem1Kt" />
         <item itemvalue="Kotlin.Problem3512Kt" />
         <item itemvalue="Kotlin.Problem2894Kt" />
         <item itemvalue="Kotlin.Problem416Kt" />
-        <item itemvalue="Kotlin.Problem368Kt" />
-        <item itemvalue="Kotlin.Problem1863Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +197,8 @@
       <workItem from="1745155425399" duration="141000" />
       <workItem from="1745155608928" duration="157000" />
       <workItem from="1745607228842" duration="4000" />
+      <workItem from="1760376356237" duration="1970000" />
+      <workItem from="1760504108102" duration="4116000" />
     </task>
     <servers />
   </component>
@@ -187,7 +209,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/easy/Problem2570.kt</url>
+          <url>file://$PROJECT_DIR$/src/main/kotlin/old/easy/Problem2570.kt</url>
           <line>22</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
